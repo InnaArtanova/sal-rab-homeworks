@@ -24,8 +24,6 @@ message = message + "теперь в корзине!";
 console.log(message);
 
     // Конец решения задания №1.1.
-    //    
-    hhhhh
 
     return message;
 }
